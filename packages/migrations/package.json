@@ -55,7 +55,6 @@
         "@types/yargs": "^11.0.0",
         "chai": "^4.0.1",
         "dirty-chai": "^2.0.1",
-        "gitpkg": "https://github.com/0xProject/gitpkg.git",
         "make-promises-safe": "^1.1.0",
         "mocha": "^6.2.0",
         "npm-run-all": "^4.1.2",
